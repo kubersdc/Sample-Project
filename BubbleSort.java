@@ -30,7 +30,7 @@ public class BubbleSort{
 	}
 
 	public static void main(String[] args){
-		Delete area by Kuber
+		This is up to date , do not change anything else.
  
 		System.out.println("Please! enter the size of array.");
 		int size = scanner.nextInt();
