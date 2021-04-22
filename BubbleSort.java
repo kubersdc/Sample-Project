@@ -30,7 +30,7 @@ public class BubbleSort{
 	}
 
 	public static void main(String[] args){
-		System.out.println("The provided array is "+ Arrays.toString(number));
+		Delete area by Kuber
  
 		System.out.println("Please! enter the size of array.");
 		int size = scanner.nextInt();
